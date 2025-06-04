@@ -154,3 +154,18 @@ namespace Vizilabda
         }
     }
 }
+
+/* private void LoadDataToGrid(string tableName)
+{
+    db.selectAll(tableName);
+    DataTable dt = new DataTable();
+
+    if (db.results.HasRows)
+    {
+        dt.Load(db.results);
+        dataGridView1.DataSource = dt;
+    }
+
+    db.results.Close(); // fontos!
+    db.conn.Close();
+}*/
