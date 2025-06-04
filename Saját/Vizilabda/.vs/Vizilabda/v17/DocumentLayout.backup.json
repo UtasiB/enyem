@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\eny\u00E9m\\Vizilabda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7652B2A2-641E-4B0F-A85E-CAB2CB5F591B}|Vizilabda\\Vizilabda.csproj|d:\\eny\u00E9m\\vizilabda\\vizilabda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7652B2A2-641E-4B0F-A85E-CAB2CB5F591B}|Vizilabda\\Vizilabda.csproj|solutionrelative:vizilabda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7652B2A2-641E-4B0F-A85E-CAB2CB5F591B}|Vizilabda\\Vizilabda.csproj|D:\\eny\u00E9m\\Vizilabda\\Vizilabda\\dbClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7652B2A2-641E-4B0F-A85E-CAB2CB5F591B}|Vizilabda\\Vizilabda.csproj|solutionrelative:Vizilabda\\dbClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7652B2A2-641E-4B0F-A85E-CAB2CB5F591B}|Vizilabda\\Vizilabda.csproj|D:\\eny\u00E9m\\Vizilabda\\vizilabda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7652B2A2-641E-4B0F-A85E-CAB2CB5F591B}|Vizilabda\\Vizilabda.csproj|solutionrelative:vizilabda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbClass.cs",
+              "DocumentMoniker": "D:\\eny\u00E9m\\Vizilabda\\Vizilabda\\dbClass.cs",
+              "RelativeDocumentMoniker": "Vizilabda\\dbClass.cs",
+              "ToolTip": "D:\\eny\u00E9m\\Vizilabda\\Vizilabda\\dbClass.cs",
+              "RelativeToolTip": "Vizilabda\\dbClass.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:00:39.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\eny\u00E9m\\Vizilabda\\Vizilabda\\Form1.cs",
+              "RelativeDocumentMoniker": "Vizilabda\\Form1.cs",
+              "ToolTip": "D:\\eny\u00E9m\\Vizilabda\\Vizilabda\\Form1.cs",
+              "RelativeToolTip": "Vizilabda\\Form1.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:54:26.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\eny\u00E9m\\Vizilabda\\Vizilabda\\Form1.cs",
+              "RelativeDocumentMoniker": "Vizilabda\\Form1.cs",
+              "ToolTip": "D:\\eny\u00E9m\\Vizilabda\\Vizilabda\\Form1.cs [Design]",
+              "RelativeToolTip": "Vizilabda\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:53:55.762Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

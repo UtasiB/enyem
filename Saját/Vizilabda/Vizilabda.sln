@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vizilabda", "Vizilabda\Vizilabda.csproj", "{7652B2A2-641E-4B0F-A85E-CAB2CB5F591B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7652B2A2-641E-4B0F-A85E-CAB2CB5F591B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7652B2A2-641E-4B0F-A85E-CAB2CB5F591B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7652B2A2-641E-4B0F-A85E-CAB2CB5F591B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7652B2A2-641E-4B0F-A85E-CAB2CB5F591B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59931D67-3E17-40FB-8EE4-CFEEDF0A8551}
+	EndGlobalSection
+EndGlobal
